@@ -1,0 +1,6 @@
+project:XXX_ClientIOHelpers_JS
+deployEnvironment:development
+checkout:master
+commitHash:660c4acd095952a286965c57f4f245faf42c8d65
+timestamp:2015-04-13T09:43:36Z
+deployer:operations
